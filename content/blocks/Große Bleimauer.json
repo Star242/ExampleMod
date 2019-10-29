@@ -1,0 +1,12 @@
+{
+        "name": "Große Bleimauer", 
+        "description": "Eine große Mauer aus Blei, die etwas stabiler als ihr Vorgängermodell aus Kupfer ist.", 
+        "type": "Wall", 
+        "health": "1460", 
+        "size": 2, 
+        "requirements": [
+                { "item": "lead", "amount" : 24}
+        ],
+        "category": "defense",
+        "research": "copper-wall"
+} 
