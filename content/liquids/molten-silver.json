@@ -1,6 +1,6 @@
 {
-	"name": "Molten Silver",
-	"description": "Imagine silver, but not solid at all.",
+	"name": "Geschmolzenes Silber",
+	"description": "Denk an Silber, nur halt in flüssig." 
 	"temperature": 0.9,
     "viscosity": 0.8,
     "effect": "melting",
