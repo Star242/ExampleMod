@@ -1,6 +1,8 @@
 {
-	"type": "resource",
+	"type": "material",
 	"name": "Rubin",
-	"description": "Ein sehr seltener Rohstoff, der mit seinem roten Glitzern jeden Diamanten in den Schatten stellt. ",
+	"description": "Wow, das glitzert ja schön!" ",
+	"hardness": 10,
+	"cost": 5.0,
 	"color": "ffffff"
 }
