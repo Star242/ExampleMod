@@ -9,4 +9,5 @@
         ],
         "category": "defense",
         "research": "copper-wall", 
-} 
+        "sprite": "ruby.jpg"
+}
