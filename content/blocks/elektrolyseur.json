@@ -8,8 +8,8 @@
 	"itemDuration": 30,
 	"powerProduction": 1.2,
 	"consumes": {
-		"liquids": {
-			"liquids": [
+		"liquid": {
+			"liquid": [
 				{ "liquid": "water", "amount": 15 }
 			],
 			"optional": true
