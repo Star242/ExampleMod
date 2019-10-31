@@ -2,6 +2,7 @@
         "type": "material",
 	"name": "Rubin",
 	"description": "Ein sehr seltener, dafür aber auch sehr schöner Edelstein." 
+        "hardness" : 5,
 	"cost": 3.0,
 	"color": "d70000"
 }
