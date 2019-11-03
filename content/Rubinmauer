@@ -1,0 +1,12 @@
+{
+        "name": "Rubinmauer", 
+        "description": "Eine rot glitzernde Mauer, die selbst den härtesten Schlag absorbiert. ", 
+        "type": "Wall", 
+        "health": "2000", 
+        "size": 1, 
+        "requirements": [
+                { "item": "rubin", "amount" : 6}
+        ],
+        "category": "defense",
+        "research": "copper-wall", 
+}
